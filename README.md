@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on  Github Project
 
 - 🌱 I’m currently learning Data Science,AWS,Data Engineering 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
